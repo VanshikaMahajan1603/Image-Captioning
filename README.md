@@ -48,4 +48,7 @@ The goal was to develop a **computationally efficient image captioning system** 
 
 ---
 
+### Dataset Used
+https://www.kaggle.com/datasets/adityajn105/flickr8k
+
 
